@@ -28,13 +28,37 @@ export default function Home() {
 
       {/* Intro Section */}
       <section className="container mx-auto px-4">
-        <div className="max-w-3xl mx-auto text-center space-y-6">
-          <h2 className="text-3xl font-bold tracking-tight text-foreground">Our Vision</h2>
-          <p className="text-lg text-muted-foreground leading-relaxed">
-            Since its foundation in 1999, the Computer Vision Lab has focused on research spanning over
-            various subsets of Computer Vision algorithms, such as Object Recognition, Behavior Understanding,
-            Medical Imaging, Anomaly Detection, Style Transfer, Image Harmonization, and Defect Detection.
-          </p>
+        <div className="max-w-5xl mx-auto bg-white dark:bg-card p-8 md:p-12 rounded-2xl shadow-sm border border-border/40 relative overflow-hidden group">
+          <div className="flex flex-col md:flex-row gap-10 items-start relative z-10">
+            <div className="flex-1 space-y-8">
+              <div className="relative">
+                <p className="text-xl md:text-2xl text-foreground font-semibold leading-relaxed">
+                  <span className="text-7xl font-serif font-bold text-primary float-left mr-5 leading-[0.7] mb-2">
+                    W
+                  </span>
+                  elcome to the Computer Vision Lab in the <span className="text-[#a51c30] dark:text-red-400">College of Information and Communication Engineering</span> at <Link href="https://www.skku.edu/" className="text-[#a51c30] dark:text-red-400 hover:underline underline-offset-4 decoration-2" target="_blank">Sungkyunkwan University</Link>.
+                </p>
+              </div>
+
+              <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
+                <p>
+                  Our lab has been investigating solutions to various computer vision problems using deep learning and statistical learning tools.
+                  Prospective grad students who are interested in conducting research in the lab should have an interview with Prof. Juneho Yi before applying to the school.
+                  Qualified students will be financially supported by various research funds from the government and industries.
+                </p>
+              </div>
+            </div>
+
+            <div className="hidden lg:flex flex-col items-end gap-4 self-end pr-4">
+              <Image
+                src="/computervisionlab/images/ui/skku_logo.svg"
+                alt="SKKU Logo"
+                width={220}
+                height={60}
+                className="opacity-80 group-hover:opacity-100 transition-opacity"
+              />
+            </div>
+          </div>
         </div>
       </section>
 

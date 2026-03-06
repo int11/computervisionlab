@@ -7,11 +7,10 @@ export default function Navbar() {
                 <div className="flex gap-6 md:gap-10">
                     <Link href="/" className="flex items-center space-x-3 group">
                         <img
-                            src="/computervisionlab/images/ui/skku_logo.svg"
-                            alt="SKKU Logo"
-                            className="h-10 w-auto group-hover:scale-105 transition-transform"
+                            src="/computervisionlab/images/ui/hero_logo.png"
+                            alt="CVL Logo"
+                            className="h-12 w-auto group-hover:scale-105 transition-transform object-contain"
                         />
-                        <span className="inline-block font-bold text-xl text-primary tracking-tight">Computer Vision Lab</span>
                     </Link>
                 </div>
                 <div className="flex gap-6 items-center">
