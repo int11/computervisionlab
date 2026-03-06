@@ -20,3 +20,4 @@ npm run dev
 
 ## Deployment
 Automatic deployment is configured via GitHub Actions. Any push to the `main` branch will trigger a build and deploy.
+ 
