@@ -1,0 +1,178 @@
+phd_alumni:
+- name: Jong-Moo Choi
+  graduation: Ph.D., 2004
+  affiliation: Canoo
+  image: people/Jong-Moo_Choi.jpg
+- name: Jong-Sun Kim
+  graduation: Ph.D., 2006
+  affiliation: Samsung Electronics
+  image: people/Jong-Sun_Kim.jpg
+- name: Ji-Young Park
+  graduation: Ph.D., 2006
+  affiliation: ETRI
+  image: people/Ji-Young_Park.jpg
+- name: Jae-Keun Na
+  graduation: Ph.D., 2011
+  affiliation: Samsung Electronics
+  image: people/Jae-Keun_Na.jpg
+- name: Young-Shin Kim
+  graduation: Ph.D., 2012
+  affiliation: Hyundai Mobis
+  image: people/Young-Shin_Kim.jpg
+- name: Sung-Baek Yoon
+  graduation: Ph.D., 2017
+  affiliation: KLA Tencor
+  image: people/Sung-Baek_Yoon.jpg
+- name: Muhammad Kamran Javed Khan
+  graduation: Ph.D., 2020
+  affiliation: National Center of Artificial Intelligence, Riyadh, Saudi Arabia
+  image: people/bandicam-2020-06-02-20-11-45-092.jpg
+- name: Nizam Ud Din
+  graduation: Ph.D., 2021
+  affiliation: National Center of Artificial Intelligence, Riyadh, Saudi Arabia
+  image: people/nizam2-150x150.jpg
+- name: Seho Bae
+  graduation: Ph.D., 2023
+  affiliation: Samsung Electronics
+  image: people/bandicam-2020-06-02-19-51-01-055.jpg
+- name: YeongHyeon Park
+  graduation: Ph.D., 2025
+  affiliation: MD Anderson Cancer Center
+  image: people/영현.jpg
+ms_alumni:
+- name: Hwa-Jung Kwon
+  graduation: M.S., 2000
+  affiliation: Megastudy Co., Ltd.
+  image: people/Hwa-Jung_Kwon.jpg
+- name: Hee-Sung Yang
+  graduation: M.S., 2001
+  affiliation: Samsung SDS
+  image: people/ready.jpg
+- name: Yu-Ho Kim
+  graduation: M.S., 2001
+  affiliation: Nvidia
+  image: people/ready.jpg
+- name: Ho-Jine Kang
+  graduation: M.S., 2002
+  affiliation: Daemyung
+  image: people/ready.jpg
+- name: Dong-Yune Lee
+  graduation: M.S., 2002
+  affiliation: LG CNS
+  image: people/Dong-Yune_Lee.jpg
+- name: Hye-Jine Kil
+  graduation: M.S., 2003
+  affiliation: LG Electronics
+  image: people/Hye-Jine_Kil.jpg
+- name: Dong-Hune Kim
+  graduation: M.S., 2003
+  affiliation: Samsung Electronics
+  image: people/ready.jpg
+- name: Seung-Su Yue
+  graduation: M.S., 2004
+  affiliation: Hanshin Telesent
+  image: people/ready.jpg
+- name: Jong-Min Kwon
+  graduation: M.S., 2004
+  affiliation: Samsung DM
+  image: people/Jong-Min_Kwon.jpg
+- name: Kwon-Suk Sin
+  graduation: M.S., 2004
+  affiliation: LG Electronics
+  image: people/ready.jpg
+- name: You-Ra Cho
+  graduation: M.S., 2004
+  affiliation: University of California, Santa Cruz
+  image: people/You-Ra_Cho.jpg
+- name: Chel-Hwon Kim
+  graduation: M.S., 2005
+  affiliation: FX Palo Alto Laboratory
+  image: people/Chel-Hwon_Kim.jpg
+- name: Young-Souck Eun
+  graduation: M.S., 2005
+  affiliation: Samsung Heavy Industry
+  image: people/ready.jpg
+- name: Byung-Yoo Ahn
+  graduation: M.S., 2006
+  affiliation: Samsung Electronics
+  image: people/Byung-Yoo_Ahn.jpg
+- name: Won-Jea Sung
+  graduation: M.S., 2006
+  affiliation: ''
+  image: people/ready.jpg
+- name: Chang-Ju Lee
+  graduation: M.S., 2006
+  affiliation: Samsung Electronics
+  image: people/Chang-Ju_Lee.jpg
+- name: Yeng-Bine Im
+  graduation: M.S., 2006
+  affiliation: ''
+  image: people/ready.jpg
+- name: Dong-Eog Kim
+  graduation: M.S., 2008
+  affiliation: Samsung Electronics
+  image: people/Dong-Eog_Kim.jpg
+- name: Jin-Su Kim
+  graduation: M.S., 2008
+  affiliation: Samsung Electronics
+  image: people/Jin-Su_Kim.jpg
+- name: Tae-Yune Hwang
+  graduation: M.S., 2009
+  affiliation: Samsung Electronics
+  image: people/ready.jpg
+- name: Kyeong-Min Yeo
+  graduation: M.S., 2011
+  affiliation: Samsung Electronics
+  image: people/Kyeong-Min_Yeo.jpg
+- name: Hyuk-Joon Kwon
+  graduation: M.S., 2012
+  affiliation: LG Innotek
+  image: people/ready.jpg
+- name: Nguyen Thi Hong Diep
+  graduation: M.S., 2012
+  affiliation: ''
+  image: people/Nguyen_Thi_Hong_Diep.jpg
+- name: Sung-Hyun Kim
+  graduation: M.S., 2012
+  affiliation: Samsung
+  image: people/Sung-Hyun_Kim.jpg
+- name: Lei Li
+  graduation: M.S., 2014
+  affiliation: Qualcomm lab, China
+  image: people/lilei.jpg
+- name: Liu Jixuan
+  graduation: M.S., 2015
+  affiliation: ''
+  image: people/jixuan.JPG
+- name: Byeong-Chan Park
+  graduation: M.S., 2016
+  affiliation: Samsung Electronics
+  image: people/Byeong-Chan_Park.JPG
+- name: Dae-Gun Go
+  graduation: M.S., 2016
+  affiliation: Samsung Electronics
+  image: people/ready.jpg
+- name: Han-Jae Park
+  graduation: M.S., 2017
+  affiliation: ''
+  image: people/Han-Jae_Park.JPG
+- name: Zheng Ziqi
+  graduation: M.S., 2017
+  affiliation: ''
+  image: people/ziqi.jpg
+- name: Kwang-Hee Lee
+  graduation: M.S., 2018
+  affiliation: Samsung Electronics
+  image: people/lkh.jpg
+- name: Jung-Hwan Jo
+  graduation: M.S., 2019
+  affiliation: Samsung Electronics
+  image: people/Jo.jpg
+- name: Dong-hwan Seo
+  graduation: M.S., 2020
+  affiliation: Samsung Electronics
+  image: people/DonghwanSeo_modified2.jpg
+- name: Rahul Singh Maharjan
+  graduation: M.S., 2020
+  affiliation: ''
+  image: people/rmsingh.jpg

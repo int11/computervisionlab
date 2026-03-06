@@ -1,0 +1,268 @@
+- raw_text: 강성호, 전형준, 김지수, 윤관수, 박영현, 이준호, “합성영상을 효과적으로 활용하는 이상검출,” 제37회 영상처리 및 이해에
+    관한 워크샵(IPIU), 2025
+  title: 합성영상을 효과적으로 활용하는 이상검출,
+  authors: 강성호, 전형준, 김지수, 윤관수, 박영현, 이준호
+  year: '2025'
+  pdf_url: ''
+- raw_text: 박현규, 이준호, “확산 기반의 도메인 통합 모델을 통한 기존 영상 분류 모델의 재활용 및 단일 도메인 일반화,” 제37회 영상처리
+    및 이해에 관한 워크샵(IPIU), 2025
+  title: 확산 기반의 도메인 통합 모델을 통한 기존 영상 분류 모델의 재활용 및 단일 도메인 일반화,
+  authors: 박현규, 이준호
+  year: '2025'
+  pdf_url: ''
+- raw_text: 박영현*, 강성호*, 김명진, 이연호, 이준호, “Connection-Switching U-Net 을 활용하는 표면이상탐지 성능
+    향상,” 한국방송·미디어공학회 하계학술대회, 2024
+  title: Connection-Switching U-Net 을 활용하는 표면이상탐지 성능 향상,
+  authors: 박영현*, 강성호*, 김명진, 이연호, 이준호
+  year: '2024'
+  pdf_url: ''
+- raw_text: 박영현, 김명진, 박원석, 이준호, “재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법,” 제35회 영상처리
+    및 이해에 관한 워크샵(IPIU), 2023
+  title: 재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법,
+  authors: 박영현, 김명진, 박원석, 이준호
+  year: '2023'
+  pdf_url: ''
+- raw_text: 강성호, 박현규, 정현호, 박영현, 배세호, 이준호, “단안 영상 깊이 추정을 활용하는 객체 변환 합성,” 제35회 영상처리
+    및 이해에 관한 워크샵(IPIU), 2023
+  title: 단안 영상 깊이 추정을 활용하는 객체 변환 합성,
+  authors: 강성호, 박현규, 정현호, 박영현, 배세호, 이준호
+  year: '2023'
+  pdf_url: ''
+- raw_text: 박현규, 배세호, 박영현, 강성호, 이준호, “양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환,”
+    제35회 영상처리 및 이해에 관한 워크샵(IPIU), 2023
+  title: 양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환,
+  authors: 박현규, 배세호, 박영현, 강성호, 이준호
+  year: '2023'
+  pdf_url: ''
+- raw_text: 박현규, 배세호, Nizam Ud Din, 이준호, “StyleGAN 기반 양방향 영상 합성 네트워크를 이용한 얼굴 포토-스케치
+    매칭,” 제34회 영상처리 및 이해에 관한 워크샵(IPIU), 2022
+  title: StyleGAN 기반 양방향 영상 합성 네트워크를 이용한 얼굴 포토-스케치 매칭,
+  authors: 박현규, 배세호, Nizam Ud Din, 이준호
+  year: '2022'
+  pdf_url: ''
+- raw_text: 강성호, 박현규, 배세호, 이준호, “객체 영역의 크기에 영향을 받지 않는 GAN 기반의 객체 변환 합성 네트워크,” 제34회
+    영상처리 및 이해에 관한 워크샵(IPIU), 2022
+  title: 객체 영역의 크기에 영향을 받지 않는 GAN 기반의 객체 변환 합성 네트워크,
+  authors: 강성호, 박현규, 배세호, 이준호
+  year: '2022'
+  pdf_url: ''
+- raw_text: 박현규, 강성호, Nizam Ud Din, 배세호, 이준호, “딥러닝 기반의 객체 변환 합성 시스템,” 대한전자공학회 추계학술대회,
+    2021
+  title: 딥러닝 기반의 객체 변환 합성 시스템,
+  authors: 박현규, 강성호, Nizam Ud Din, 배세호, 이준호
+  year: '2021'
+  pdf_url: ''
+- raw_text: Nizam Ud Din, 배세호, 박현규, and 이준호, “A GAN-based bidirectional network for
+    face photo-sketch synthesis using an intermediate modality,” 제33회 영상처리 및 이해에 관한
+    워크샵(IPIU), 2021
+  title: A GAN-based bidirectional network for face photo-sketch synthesis using an
+    intermediate modality,
+  authors: Nizam Ud Din, 배세호, 박현규, and 이준호
+  year: '2021'
+  pdf_url: ''
+- raw_text: 배세호, Nizam Ud Din, 박현규, and 이준호, “중간 도메인 학습을 통한 얼굴 포토-스케치 매칭,” 제33회 영상처리
+    및 이해에 관한 워크샵(IPIU), 2021
+  title: 중간 도메인 학습을 통한 얼굴 포토-스케치 매칭,
+  authors: 배세호, Nizam Ud Din, 박현규, and 이준호
+  year: '2021'
+  pdf_url: ''
+- raw_text: 박현규, 배세호, Nizam Ud Din, and 이준호, “어텐션 메커니즘 기반 얼굴 포토-스케치 매칭,” 제33회 영상처리
+    및 이해에 관한 워크샵(IPIU), 2021
+  title: 어텐션 메커니즘 기반 얼굴 포토-스케치 매칭,
+  authors: 박현규, 배세호, Nizam Ud Din, and 이준호
+  year: '2021'
+  pdf_url: ''
+- raw_text: 박현규, Nizam Ud Din, 배세호, Kamran Javed, Rahul S. Maharjan, 서동환, and 이준호,
+    “GAN 네트워크를 활용하는 얼굴 영상에서 그림자 제거,” 제32회 영상처리 및 이해에 관한 워크샵(IPIU), 2020
+  title: GAN 네트워크를 활용하는 얼굴 영상에서 그림자 제거,
+  authors: 박현규, Nizam Ud Din, 배세호, Kamran Javed, Rahul S. Maharjan, 서동환, and 이준호
+  year: '2020'
+  pdf_url: ''
+- raw_text: 서동환, 배세호, Nizam Ud Din, Kamran Javed, Rahul S. Maharjan, 박현규, and 이준호,
+    “훈련영상의 얼굴 속성 별 분리 학습을 통한 모자이크 된 얼굴 영상의 복원,” 제32회 영상처리 및 이해에 관한 워크샵(IPIU), 2020
+  title: 훈련영상의 얼굴 속성 별 분리 학습을 통한 모자이크 된 얼굴 영상의 복원,
+  authors: 서동환, 배세호, Nizam Ud Din, Kamran Javed, Rahul S. Maharjan, 박현규, and 이준호
+  year: '2020'
+  pdf_url: ''
+- raw_text: 배세호, Nizam Ud Din, Kamran Javed, Rahul S. Maharjan, 서동환, and 이준호, “단일
+    네트워크를 사용한 효율적인 다중 스케치 스타일 생성,” 제31회 영상처리 및 이해에 관한 워크샵(IPIU), 2019
+  title: 단일 네트워크를 사용한 효율적인 다중 스케치 스타일 생성,
+  authors: 배세호, Nizam Ud Din, Kamran Javed, Rahul S. Maharjan, 서동환, and 이준호
+  year: '2019'
+  pdf_url: ''
+- raw_text: Kamran Javed, Nizam Ud Din, 배세호, Rahul S. Maharjan, 서동환, and 이준호, “Deep
+    neural network for face unmosaicing,” 제31회 영상처리 및 이해에 관한 워크샵(IPIU), 2019
+  title: Deep neural network for face unmosaicing,
+  authors: Kamran Javed, Nizam Ud Din, 배세호, Rahul S. Maharjan, 서동환, and 이준호
+  year: '2019'
+  pdf_url: ''
+- raw_text: Nizam Ud Din, Kamran Javed, 배세호, Rahul S. Maharjan, 서동환, and 이준호, “Microphone
+    removal using generative adversarial network,” 제31회 영상처리 및 이해에 관한 워크샵(IPIU), 2019
+  title: Microphone removal using generative adversarial network,
+  authors: Nizam Ud Din, Kamran Javed, 배세호, Rahul S. Maharjan, 서동환, and 이준호
+  year: '2019'
+  pdf_url: ''
+- raw_text: 윤성백, 배세호, 박한재, Jixuan Liu, Lei Li, 이준호, “물체-행동 컨텍스트를 이용하는 확률 그래프 기반 물체
+    범주 인식,” 영상처리 및 이해에 관한 워크샵, 2015
+  title: 물체-행동 컨텍스트를 이용하는 확률 그래프 기반 물체 범주 인식,
+  authors: 윤성백, 배세호, 박한재, Jixuan Liu, Lei Li, 이준호
+  year: '2015'
+  pdf_url: ''
+- raw_text: 권혁준, 김영신, 이준호, “GPU based Real-time Relevant Neighbor Area (RNA) Method
+    for Metal Artifacts Reduction (MAR) in X-ray CT images,” 대한의용생체공학회 춘계 학술대회, 2010
+  title: GPU based Real-time Relevant Neighbor Area (RNA) Method for Metal Artifacts
+    Reduction (MAR) in X-ray CT images,
+  authors: 권혁준, 김영신, 이준호
+  year: '2010'
+  pdf_url: ''
+- raw_text: 김영신, 윤성백, 이준호, ” 효과적인 시노그램 복원을 통한 금속 아티팩트 제거,” 영상처리 및 이해에 관한 워크샵, 2010
+  title: ''
+  authors: 김영신
+  year: '2010'
+  pdf_url: ''
+- raw_text: 김영신, 윤성백, 전진환, 이준호, ” X-ray CT 영상에서의 금속 아티팩트 제거를 위한 효과적인 시노그램 복원,” 제40회
+    대한의용생체공학회 추계학술대회, 2009
+  title: ''
+  authors: 김영신
+  year: '2009'
+  pdf_url: ''
+- raw_text: 황태윤, 이준호, “스캐너 이미지 기반 ISO 13660 및 컬러 품질 항목 평가,” 정보처리학회 하계학술대회, 대한전자공학회
+    1-1, 1-4, 2008 (PDF)
+  title: 스캐너 이미지 기반 ISO 13660 및 컬러 품질 항목 평가,
+  authors: 황태윤, 이준호
+  year: '2008'
+  pdf_url: https://vision.skku.ac.kr/publications/Domestic%20conference/2008-1.pdf
+- raw_text: 황태윤, 이준호, “스캐너를 이용하여 인쇄품질 평가방법,” 정보처리학회 춘계학술대회, 한국정보처리학회 1-1, 1-4, 2008
+  title: 스캐너를 이용하여 인쇄품질 평가방법,
+  authors: 황태윤, 이준호
+  year: '2008'
+  pdf_url: ''
+- raw_text: 안병우, 성원제, 이준호, “조명에 강인한 얼굴인식을 위한 백색광 영상과 깊이 에지 정보의 퓨전,” 제5회 BERC 생체인식워크샵,
+    2007
+  title: 조명에 강인한 얼굴인식을 위한 백색광 영상과 깊이 에지 정보의 퓨전,
+  authors: 안병우, 성원제, 이준호
+  year: '2007'
+  pdf_url: ''
+- raw_text: 성원제, 안병우, 이준호, “데이터 수준에서의 퓨전벡터를 이용한 ODA 기반의 얼굴인식,” 제5회 BERC 생체인식워크샵, 2007
+  title: 데이터 수준에서의 퓨전벡터를 이용한 ODA 기반의 얼굴인식,
+  authors: 성원제, 안병우, 이준호
+  year: '2007'
+  pdf_url: ''
+- raw_text: 안병우, 성원제, 이준호, “조명에 강인한 얼굴인식을 위한 백색광 영상과 깊이 에지 정보의 퓨전,” 제5회 BERC 생체인식워크샵,
+    2007
+  title: 조명에 강인한 얼굴인식을 위한 백색광 영상과 깊이 에지 정보의 퓨전,
+  authors: 안병우, 성원제, 이준호
+  year: '2007'
+  pdf_url: ''
+- raw_text: 성원제, 안병우, 이준호, “데이터 수준에서의 퓨전벡터를 이용한 ODA 기반의 얼굴인식,” 제5회 BERC 생체인식워크샵, 2007
+  title: 데이터 수준에서의 퓨전벡터를 이용한 ODA 기반의 얼굴인식,
+  authors: 성원제, 안병우, 이준호
+  year: '2007'
+  pdf_url: ''
+- raw_text: 김영신, 나재근, 윤성백, 이준호, “적외선 반사율 측정을 이용한 가면 착용 위변조 얼굴,” 제7회 정보 및 제어 학술대회,
+    2007 (PDF)
+  title: 적외선 반사율 측정을 이용한 가면 착용 위변조 얼굴,
+  authors: 김영신, 나재근, 윤성백, 이준호
+  year: '2007'
+  pdf_url: https://vision.skku.ac.kr/publications/Domestic%20conference/2007-1.pdf
+- raw_text: 성원제, 김종선, 이준호, “깊이 에지에 기반한 특징벡터를 이용한 얼굴인식,” 제4회 BERC 생체인식 워크샵, 2006
+  title: 깊이 에지에 기반한 특징벡터를 이용한 얼굴인식,
+  authors: 성원제, 김종선, 이준호
+  year: '2006'
+  pdf_url: ''
+- raw_text: 김종선, 성원제, 이준호, “부분 국부적 표현의 기저영상을 이용한 얼굴인식,” 제4회 BERC 생체인식 워크샵, 2006 (PDF)
+  title: 부분 국부적 표현의 기저영상을 이용한 얼굴인식,
+  authors: 김종선, 성원제, 이준호
+  year: '2006'
+  pdf_url: https://vision.skku.ac.kr/publications/Domestic%20conference/2006-1.pdf
+- raw_text: 성원제, 김종선, 이준호, “효율적인 얼굴인식을 위한 깊이 에지 기반 특징벡터,” 영상처리 및 이해에 관한 워크샵, 2006
+  title: 효율적인 얼굴인식을 위한 깊이 에지 기반 특징벡터,
+  authors: 성원제, 김종선, 이준호
+  year: '2006'
+  pdf_url: ''
+- raw_text: 안병우, 성원제, 이준호, “조명에 강인한 얼굴인식을 위한 텍스쳐 정보와 깊이 에지 기반의 퓨전 벡터 생성기법,” Conference
+    of Information Security and Cryptology, 2006
+  title: 조명에 강인한 얼굴인식을 위한 텍스쳐 정보와 깊이 에지 기반의 퓨전 벡터 생성기법,
+  authors: 안병우, 성원제, 이준호
+  year: '2006'
+  pdf_url: ''
+- raw_text: 김철훤, 박지영, 이준호, ” 물체형상 검출을 위한 구조광 기반의 깊이 에지 맵 생성 기법,” 영상처리 및 이해에 관한워크?
+    2005
+  title: ''
+  authors: 김철훤
+  year: '2005'
+  pdf_url: ''
+- raw_text: 김종선, 이준호, “ICA 기저영상의 공간적으로 현저한 특징만을 이용한 얼굴인식,” 영상처리 및 이해에 관한 워크? 2005
+    (PDF)
+  title: ICA 기저영상의 공간적으로 현저한 특징만을 이용한 얼굴인식,
+  authors: 김종선, 이준호
+  year: '2005'
+  pdf_url: https://vision.skku.ac.kr/publications/Domestic%20conference/2005-1.pdf
+- raw_text: 김동훈, 최종무, 이준호, “대용량 얼굴데이터베이스를 위한 FLD와 Fuzzy C-mean Clustering 기반의 얼굴인식
+    기법,” 영상처리 및 이해에 관한 워크? 2005
+  title: 대용량 얼굴데이터베이스를 위한 FLD와 Fuzzy C-mean Clustering 기반의 얼굴인식 기법,
+  authors: 김동훈, 최종무, 이준호
+  year: '2005'
+  pdf_url: ''
+- raw_text: 김종선, 권종민, 이준호, “RFLD를 이용한 얼굴인식 방법,” 영상처리 및 이해에 관한 워크? 2003
+  title: RFLD를 이용한 얼굴인식 방법,
+  authors: 김종선, 권종민, 이준호
+  year: '2003'
+  pdf_url: ''
+- raw_text: 김동훈 , 최종무, 이준호, “Adptive Boosting을 이용한 실시간 얼굴검출 시스템,” 영상처리 및 이해에 관한 워크?
+    2003
+  title: Adptive Boosting을 이용한 실시간 얼굴검출 시스템,
+  authors: 김동훈 , 최종무, 이준호
+  year: '2003'
+  pdf_url: ''
+- raw_text: 길혜진, 이동윤, 이준호, “레티닉스 알고리즘과 PCA에 기반한 조명과 자세변화에 강인한 실시간 피부영역 검출,”영상처리 및
+    이해에 관한 워크? 2003
+  title: 레티닉스 알고리즘과 PCA에 기반한 조명과 자세변화에 강인한 실시간 피부영역 검출,
+  authors: 길혜진, 이동윤, 이준호
+  year: '2003'
+  pdf_url: ''
+- raw_text: 권종민, 김종선, 이준호, “비정규형 분포를 고려한 얼굴인식 알고리즘,” 인간과 컴퓨터 상호작용 연구회, 2003
+  title: 비정규형 분포를 고려한 얼굴인식 알고리즘,
+  authors: 권종민, 김종선, 이준호
+  year: '2003'
+  pdf_url: ''
+- raw_text: 박정우, 이준호, “효율적인 슬라이드 제어를 위한 컴퓨터 비전 기반 휴먼 커퓨터 인터페이스,” 인간과 컴퓨터 상호작용연구회,
+    2003
+  title: 효율적인 슬라이드 제어를 위한 컴퓨터 비전 기반 휴먼 커퓨터 인터페이스,
+  authors: 박정우, 이준호
+  year: '2003'
+  pdf_url: ''
+- raw_text: 김기찬, 박지영 , 박정우, 이중호, “Interactive Boxing Game Based on Computer Vision,”
+    인간과 컴퓨어상호작용 연구회, 2003
+  title: Interactive Boxing Game Based on Computer Vision,
+  authors: 김기찬, 박지영 , 박정우, 이중호
+  year: '2003'
+  pdf_url: ''
+- raw_text: 김동훈, 최종무, 이준호, “Harr Wavelet feature에 기반한 실시간 얼굴검출 시스템,” 인간과 컴퓨터 상호작용
+    연구회, 2003
+  title: Harr Wavelet feature에 기반한 실시간 얼굴검출 시스템,
+  authors: 김동훈, 최종무, 이준호
+  year: '2003'
+  pdf_url: ''
+- raw_text: 박지영, 김기찬, 박정우, 이준호, “컴퓨터비전을 이용한 PC기반 실시간 체감형 복싱게임,” 한국정보과학회 컴퓨터비전 및 패턴인식
+    연구회, 2002 (PDF)
+  title: 컴퓨터비전을 이용한 PC기반 실시간 체감형 복싱게임,
+  authors: 박지영, 김기찬, 박정우, 이준호
+  year: '2002'
+  pdf_url: https://vision.skku.ac.kr/publications/Domestic%20conference/2002-1.pdf
+- raw_text: 박지영, 이준호, “컴퓨터 비전기반 휴먼 컴퓨터 인터페이스를 위한 마우스 포인터 제어기법,” 영상처리 및 이해에 관한 워크샵,
+    2002 (PDF)
+  title: 컴퓨터 비전기반 휴먼 컴퓨터 인터페이스를 위한 마우스 포인터 제어기법,
+  authors: 박지영, 이준호
+  year: '2002'
+  pdf_url: https://vision.skku.ac.kr/publications/Domestic%20conference/2002-2.pdf
+- raw_text: 박지영, 이준호, “휴먼마우스 구현을 위한 효율적인 검지 좌표 검출 및 추적,” 인간과 컴퓨터 상호작용 학술대회, 2001 (PDF)
+  title: 휴먼마우스 구현을 위한 효율적인 검지 좌표 검출 및 추적,
+  authors: 박지영, 이준호
+  year: '2001'
+  pdf_url: https://vision.skku.ac.kr/publications/Domestic%20conference/2001-1.pdf
+- raw_text: 이준호, “CAD 기반 3차원 물체 인식을 위한 Bayesian 인덱싱,” 한국정보과학회 학술발표논문집, 1997 (PDF)
+  title: CAD 기반 3차원 물체 인식을 위한 Bayesian 인덱싱,
+  authors: 이준호
+  year: '1997'
+  pdf_url: https://vision.skku.ac.kr/publications/Domestic%20conference/1997-1.pdf

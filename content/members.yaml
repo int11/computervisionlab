@@ -1,0 +1,48 @@
+professor:
+- name: June-Ho Yi
+  email: jhyi@skku.edu
+  office: '85762'
+  phone: +82-31-290-7142
+  fax: +82-31-290-7947
+  image: professor/교수님현재버전.jpg
+  education_experience:
+  - 'B.S. : EE, 1985, Seoul National University'
+  - 'M.S. : EE, 1987, The Pennsylvania State University, U. S. A.'
+  - 'Ph.D. : EE, 1994, Purdue University, U. S. A.'
+  - 'Research Staff : 1994~1995, University of California, U. S. A.'
+  - 'Senior Researcher : 1995~1996, KIST'
+  - 'Visiting Professor : 2004~2005, University of California at Santa Barbara, U.
+    S. A.'
+  - 'Distinguished Visiting Professor : 2013~, North University of China, China.'
+  - 'President: 2023, Korea Computer Vision Society'
+phd_students:
+- name: HyunKyu Park
+  email: mjss016@skku.edu
+  research_interests: Image synthesis and recognition, Image-to-Image translation
+  image: people/bandicam-2020-06-02-19-50-18-408.jpg
+- name: Yeonho Lee
+  email: tarazed@skku.edu
+  research_interests: Anomaly detection, 3D object recognition and pose estimation
+  image: people/이연호.png
+- name: Sungho Kang
+  email: sungho369@skku.edu
+  research_interests: Image synthesis and recognition, Monocular depth estimation
+  image: people/kang.jpg
+ms_students:
+- name: Hanbyul Lee
+  email: byul1748@skku.edu
+  research_interests: Fake Detection
+  image: people/한별.jpg
+- name: Jihyung Ha
+  email: daylikedog@skku.edu
+  research_interests: Neural Radiance Fields
+  image: people/KakaoTalk_20240914_142447312.png
+- name: Injae Lee
+  email: injea1291@skku.edu
+  research_interests: Object Detection
+  image: people/KakaoTalk_20250623_111538869.jpg
+undergrad_interns:
+- name: Mijoo Jeong
+  email: gorgeousmj2@g.skku.edu
+  research_interests: 3d vision multimodal interaction
+  image: people/KakaoTalk_20250623_105712193.jpg
