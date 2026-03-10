@@ -24,8 +24,8 @@
   pdf_url: https://vision.skku.ac.kr/publications/Domestic%20journal/2004-1.pdf
 - raw_text: 신권석, 이준호,” 실시간 얼굴검출을 위한 대용량 데이터의 점진적 학습기법,” 하계종합학술대회 논문집, 27권, 1호, 727-730,
     2004
-  title: ''
-  authors: 신권석
+  title: 실시간 얼굴검출을 위한 대용량 데이터의 점진적 학습기법,
+  authors: 신권석, 이준호
   year: '2004'
   pdf_url: ''
 - raw_text: 조유라, 은영석, 김철훤, 이준호, “다중 감정 분류를 위한 FLD와 Fuzzy k-NN기반의 얼굴표정인식,” 하계종합학술대회

@@ -219,8 +219,9 @@
 - raw_text: J. Y. Park, J. H. Yi, ” Boosting Based Incremental Learning for Face Detection
     Using a Very Large Size of Training Data,” Proceedings of ECCV Workshop on Statistical
     Learning in Computer Vision, 2004 (PDF)
-  title: ''
-  authors: J. Y. Park
+  title: Boosting Based Incremental Learning for Face Detection Using a Very Large
+    Size of Training Data,
+  authors: J. Y. Park, J. H. Yi
   year: '2004'
   pdf_url: https://vision.skku.ac.kr/publications/International%20conference/2004-Boosting%20Based%20Incremental%20Learning%20for%20Face%20Detection%20Using%20a%20Very%20Large%20Size%20of%20Training%20Data.pdf
 - raw_text: J. Y. Park, K. C. Kim, J. W. Park and J. H. Yi, “Realtime Interactive
