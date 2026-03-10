@@ -176,3 +176,13 @@ ms_alumni:
   graduation: M.S., 2020
   affiliation: ''
   image: people/rmsingh.jpg
+leave_of_absence:
+- name: Jin-Yong Kang
+  degree: Ph.D.
+  image: people/Jin-Yong_Kang.jpg
+- name: Liu Hua
+  degree: Ph.D.
+  image: people/ready.jpg
+- name: Chansu Han
+  degree: M.S.
+  image: people/Chansu_Han.jpg

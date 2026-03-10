@@ -22,9 +22,16 @@ interface MembersData {
     undergrad_interns: Member[];
 }
 
+interface LeaveOfAbsenceMember {
+    name: string;
+    degree: string;
+    image?: string;
+}
+
 interface AlumniData {
     phd_alumni: Member[];
     ms_alumni: Member[];
+    leave_of_absence: LeaveOfAbsenceMember[];
 }
 
 export default function PeoplePage() {
@@ -38,6 +45,7 @@ export default function PeoplePage() {
 
     const phdAlumni = alumni.phd_alumni || [];
     const msAlumni = alumni.ms_alumni || [];
+    const leaveOfAbsence = alumni.leave_of_absence || [];
 
     return (
         <div className="container mx-auto px-4 py-8">
@@ -153,6 +161,32 @@ export default function PeoplePage() {
                         ))}
                     </div>
                 </section>
+
+                {/* Leave of Absence Section */}
+                {leaveOfAbsence.length > 0 && (
+                <section>
+                    <div className="mb-8 border-b pb-4">
+                        <h2 className="text-2xl font-bold tracking-tight">Leave of Absence</h2>
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+                        {leaveOfAbsence.map((member, idx) => (
+                            <div key={idx} className="flex flex-col items-center bg-card border rounded-xl p-6 shadow-sm text-center">
+                                <div className="w-24 h-24 relative rounded-full overflow-hidden mb-4 border-2 border-primary/10 bg-secondary/30 flex items-center justify-center p-1">
+                                    {member.image ? (
+                                        <img src={`/computervisionlab/images/${member.image}`} alt={member.name} className="w-full h-full object-contain rounded-full" />
+                                    ) : (
+                                        <div className="bg-secondary/50 flex items-center justify-center w-full h-full text-2xl text-muted-foreground font-medium rounded-full">
+                                            {member.name.charAt(0)}
+                                        </div>
+                                    )}
+                                </div>
+                                <h3 className="text-lg font-bold">{member.name}</h3>
+                                <p className="text-xs text-muted-foreground mt-1">{member.degree}</p>
+                            </div>
+                        ))}
+                    </div>
+                </section>
+                )}
 
                 {/* Alumni Section */}
                 <section className="bg-slate-50 p-8 rounded-3xl border">
