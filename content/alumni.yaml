@@ -176,6 +176,14 @@ ms_alumni:
   graduation: M.S., 2020
   affiliation: ''
   image: people/rmsingh.jpg
+- name: Hanbyul Lee
+  graduation: M.S., 2026
+  affiliation: Hanwha Aerospace
+  image: people/한별.jpg
+- name: Jihyung Ha
+  graduation: M.S., 2026
+  affiliation: ''
+  image: people/KakaoTalk_20240914_142447312.png
 leave_of_absence:
 - name: Jin-Yong Kang
   degree: Ph.D.

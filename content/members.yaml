@@ -29,18 +29,14 @@ phd_students:
   research_interests: Image synthesis and recognition, Monocular depth estimation
   image: people/kang.jpg
 ms_students:
-- name: Hanbyul Lee
-  email: byul1748@skku.edu
-  research_interests: Fake Detection
-  image: people/한별.jpg
-- name: Jihyung Ha
-  email: daylikedog@skku.edu
-  research_interests: Neural Radiance Fields
-  image: people/KakaoTalk_20240914_142447312.png
 - name: Injae Lee
   email: injea1291@skku.edu
-  research_interests: Object Detection
+  research_interests: Object detection, low-light image enhancement, Efficient Computer Vision
   image: people/KakaoTalk_20250623_111538869.jpg
+- name: 손유진
+  email: s0047026@skku.edu
+  research_interests: Model quantization, on-device AI, lightweight deep learning
+  image: people/KakaoTalk_20260310_145542093.png
 undergrad_interns:
 - name: Mijoo Jeong
   email: gorgeousmj2@g.skku.edu
